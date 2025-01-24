@@ -3,7 +3,7 @@
 This project implements a distributed file storage system using the InterPlanetary File System (IPFS) while incorporating core Data Structures and Algorithms (DSA) concepts. The system leverages **SHA1** for file handling and uses **B-trees** to provide an optimized way to store and retrieve files efficiently.
 
 ## Features:
-- **SHA1 for File Handling**: We use the SHA1 hash function to uniquely identify files in the system. This ensures that each file is stored in the network with a distinct identifier based on its content, ensuring data integrity and efficient retrieval.
+- **SHA1**: We use the SHA1 hash function to uniquely identify files in the system. This ensures that each file is stored in the network with a distinct identifier based on its content, ensuring data integrity and efficient retrieval.
 - **B-tree for Optimized Storage**: The project uses B-trees for file storage, providing an efficient mechanism for storing and indexing files. This allows fast search, insertion, and deletion operations while minimizing the number of disk accesses, making the system scalable and responsive.
 - **Folder Structure for Machines**: To visualize the concepts of file storage and management, we create folders for each machine within the system. These folders represent different machines or nodes in the distributed network, where files are uploaded, stored, and retrieved.
 - **File Upload to Folders**: Users can upload files to these folders, demonstrating how data can be organized and accessed within a distributed system. The uploaded files are stored using their unique SHA1 hash, ensuring efficient management and retrieval.
