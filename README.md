@@ -16,7 +16,7 @@ This project implements a distributed file storage system using the InterPlaneta
 - **IPFS**: For distributed file storage and retrieval.
 - **SHA1 Hashing**: To uniquely identify files.
 - **B-tree**: For optimized file storage and management.
-- **Python**: For implementing the project and visualizing the concepts.
+- **C++**: For implementing the project and visualizing the concepts.
 
 ## Visualizing DSA Concepts:
 To help visualize how files are stored and managed, we use code to simulate the creation of folders for different machines or nodes. Files are uploaded to these folders and indexed using SHA1 hashes. The B-tree structure ensures efficient file access and management across the network, demonstrating the practical application of these DSA concepts in real-world scenarios.
