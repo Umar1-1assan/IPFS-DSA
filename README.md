@@ -23,8 +23,6 @@ To help visualize how files are stored and managed, we use code to simulate the 
 
 ## Getting Started:
 1. Clone the repository.
-2. Install required dependencies for Python and IPFS.
-3. Run the script to initialize the system and begin uploading files to the network.
-  
-## License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+2. Install required dependencies for C++.
+3. Run the code in terminal.
+
